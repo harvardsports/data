@@ -5,7 +5,7 @@ import sys
 import csv
 
 def getYears():
-    return range(2008,2016)
+    return range(2004,2016)
 
 def getTeams():
     url = "http://www.spotrac.com/"
