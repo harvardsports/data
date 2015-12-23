@@ -38,20 +38,38 @@ def scrape(url, verbose=False, nice = True):
     if nice:
         time.sleep(1)
     soup = BeautifulSoup(requests.get(url).text, "html.parser")
-    for superscript in soup.find_all("sup"):
-        superscript.decompose()
+    if len(soup.text.split('Wikipedia does not have an article with this exact name')) == 2:
+        print "Article at this link:",url,"doesn't exist"
+        return None
     for table in soup.find_all("table", attrs={"class": "wikitable"}):
         try:
             a = table.find_all("tr")[0].find_all('th')[0].get_text()
         except:
             pass
         else:
-            if a == "Pos":
+            if a in ["Pos", 'P']:
                 return scrapeTable(table)
     #raise ValueError('Table not Found')
-    print "Table Not Found", url
+    print "Table Not Found, trying method 2", url
+    return scrape_take_2(soup)
+
+def scrape_take_2(soup):
+    for i, t in enumerate(soup.find_all('table')):
+        try:
+            a = t.find_all("tr")[0].find_all('th')[0].get_text()
+            b = t.find_all("tr")[0].find_all('th')[1].get_text()
+        except:
+            pass
+        else:
+            if a in ['Position', 'P'] and b == 'Club':
+                print "Found"
+                return scrapeTable(t)
+    print "Not Found"
+    return None
     
 def scrapeTable(table):
+    for superscript in table.find_all("sup"):
+        superscript.decompose()
     body =  [[entry.get_text() for entry in row.find_all("td")] for row in table.find_all("tr")[1:] if len(row.find_all("td"))>1]
     head =  [[entry.get_text() for entry in table.find_all("tr")[0].find_all("th")]]
     return head+body
