@@ -70,7 +70,7 @@ def scrape_take_2(soup):
 def scrapeTable(table):
     for superscript in table.find_all("sup"):
         superscript.decompose()
-    body =  [[entry.get_text() for entry in row.find_all("td")] for row in table.find_all("tr")[1:] if len(row.find_all("td"))>1]
+    body =  [[entry.get_text() for entry in row.find_all(["td", "th"])] for row in table.find_all("tr")[1:] if len(row.find_all("td"))>1]
     head =  [[entry.get_text() for entry in table.find_all("tr")[0].find_all("th")]]
     return head+body
 
