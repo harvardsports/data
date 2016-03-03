@@ -1,0 +1,883 @@
+YEAR,REGION,ROUND,SEED,TEAM,SCORE,O_SEED,O_NAME,O_SCORE
+2002,East Regional,1,1,Maryland,85,16,Siena,70
+2002,East Regional,1,8,Wisconsin,80,9,St. John's (NY),70
+2002,East Regional,1,5,Marquette,69,12,Tulsa,71
+2002,East Regional,1,4,Kentucky,83,13,Valparaiso,68
+2002,East Regional,1,6,Texas Tech,68,11,Southern Illinois,76
+2002,East Regional,1,3,Georgia,85,14,Murray State,68
+2002,East Regional,1,7,North Carolina State,69,10,Michigan State,58
+2002,East Regional,1,2,UConn,78,15,Hampton,67
+2002,East Regional,2,1,Maryland,87,8,Wisconsin,57
+2002,East Regional,2,12,Tulsa,82,4,Kentucky,87
+2002,East Regional,2,11,Southern Illinois,77,3,Georgia,75
+2002,East Regional,2,7,North Carolina State,74,2,UConn,77
+2002,East Regional,3,1,Maryland,78,4,Kentucky,68
+2002,East Regional,3,11,Southern Illinois,59,2,UConn,71
+2002,East Regional,4,1,Maryland,90,2,UConn,82
+2002,Midwest Regional,1,1,Kansas,70,16,Holy Cross,59
+2002,Midwest Regional,1,8,Stanford,84,9,Western Kentucky,68
+2002,Midwest Regional,1,5,Florida,82,12,Creighton,83
+2002,Midwest Regional,1,4,Illinois,93,13,San Diego State,64
+2002,Midwest Regional,1,6,Texas,70,11,Boston College,57
+2002,Midwest Regional,1,3,Mississippi State,70,14,McNeese State,58
+2002,Midwest Regional,1,7,Wake Forest,83,10,Pepperdine,74
+2002,Midwest Regional,1,2,Oregon,81,15,Montana,62
+2002,Midwest Regional,2,1,Kansas,86,8,Stanford,63
+2002,Midwest Regional,2,12,Creighton,60,4,Illinois,72
+2002,Midwest Regional,2,6,Texas,68,3,Mississippi State,64
+2002,Midwest Regional,2,7,Wake Forest,87,2,Oregon,92
+2002,Midwest Regional,3,1,Kansas,73,4,Illinois,69
+2002,Midwest Regional,3,6,Texas,70,2,Oregon,72
+2002,Midwest Regional,4,1,Kansas,104,2,Oregon,86
+2002,South Regional,1,1,Duke,84,16,Winthrop,37
+2002,South Regional,1,8,Notre Dame,82,9,Charlotte,63
+2002,South Regional,1,5,Indiana,75,12,Utah,56
+2002,South Regional,1,4,USC,89,13,North Carolina-Wilmington,93
+2002,South Regional,1,6,University of California,82,11,Penn,75
+2002,South Regional,1,3,Pitt,71,14,Central Connecticut,54
+2002,South Regional,1,7,Oklahoma State,61,10,Kent State,69
+2002,South Regional,1,2,Alabama,86,15,Florida Atlantic,78
+2002,South Regional,2,1,Duke,84,8,Notre Dame,77
+2002,South Regional,2,5,Indiana,76,13,North Carolina-Wilmington,67
+2002,South Regional,2,6,University of California,50,3,Pitt,63
+2002,South Regional,2,10,Kent State,71,2,Alabama,58
+2002,South Regional,3,1,Duke,73,5,Indiana,74
+2002,South Regional,3,3,Pitt,73,10,Kent State,78
+2002,South Regional,4,5,Indiana,81,10,Kent State,69
+2002,West Regional,1,1,Cincinnati,90,16,Boston University,52
+2002,West Regional,1,8,UCLA,80,9,Ole Miss,58
+2002,West Regional,1,5,Miami (FL),80,12,Missouri,93
+2002,West Regional,1,4,Ohio State,69,13,Davidson,64
+2002,West Regional,1,6,Gonzaga,66,11,Wyoming,73
+2002,West Regional,1,3,Arizona,86,14,UCSB,81
+2002,West Regional,1,7,Xavier,70,10,Hawaii,58
+2002,West Regional,1,2,Oklahoma,71,15,UIC,63
+2002,West Regional,2,1,Cincinnati,101,8,UCLA,105
+2002,West Regional,2,12,Missouri,83,4,Ohio State,67
+2002,West Regional,2,11,Wyoming,60,3,Arizona,68
+2002,West Regional,2,7,Xavier,65,2,Oklahoma,78
+2002,West Regional,3,8,UCLA,73,12,Missouri,82
+2002,West Regional,3,3,Arizona,67,2,Oklahoma,88
+2002,West Regional,4,12,Missouri,75,2,Oklahoma,81
+2002,Final_Four,Final_Four,1,Maryland,97,1,Kansas,88
+2002,Final_Four,Final_Four,2,Oklahoma,64,5,Indiana,73
+2002,Final_Four,Championship,1,Maryland,64,5,Indiana,52
+2003,East Regional,1,1,Oklahoma,71,16,South Carolina State,54
+2003,East Regional,1,8,University of California,76,9,North Carolina State,74
+2003,East Regional,1,5,Mississippi State,46,12,Butler,47
+2003,East Regional,1,4,Louisville,86,13,Austin Peay,64
+2003,East Regional,1,6,Oklahoma State,77,11,Penn,63
+2003,East Regional,1,3,Syracuse,76,14,Manhattan,65
+2003,East Regional,1,7,St. Joseph's,63,10,Auburn,65
+2003,East Regional,1,2,Wake Forest,76,15,ETSU,73
+2003,East Regional,2,1,Oklahoma,74,8,University of California,65
+2003,East Regional,2,12,Butler,79,4,Louisville,71
+2003,East Regional,2,6,Oklahoma State,56,3,Syracuse,68
+2003,East Regional,2,10,Auburn,68,2,Wake Forest,62
+2003,East Regional,3,1,Oklahoma,65,12,Butler,54
+2003,East Regional,3,3,Syracuse,79,10,Auburn,78
+2003,East Regional,4,1,Oklahoma,47,3,Syracuse,63
+2003,Midwest Regional,1,1,Kentucky,95,16,IUPUI,64
+2003,Midwest Regional,1,8,Oregon,58,9,Utah,60
+2003,Midwest Regional,1,5,Wisconsin,81,12,Weber State,74
+2003,Midwest Regional,1,4,Dayton,71,13,Tulsa,84
+2003,Midwest Regional,1,6,Missouri,72,11,Southern Illinois,71
+2003,Midwest Regional,1,3,Marquette,72,14,Holy Cross,68
+2003,Midwest Regional,1,7,Indiana,67,10,Alabama,62
+2003,Midwest Regional,1,2,Pitt,87,15,Wagner,61
+2003,Midwest Regional,2,1,Kentucky,74,9,Utah,54
+2003,Midwest Regional,2,5,Wisconsin,61,13,Tulsa,60
+2003,Midwest Regional,2,6,Missouri,92,3,Marquette,101
+2003,Midwest Regional,2,7,Indiana,52,2,Pitt,74
+2003,Midwest Regional,3,1,Kentucky,63,5,Wisconsin,57
+2003,Midwest Regional,3,3,Marquette,77,2,Pitt,74
+2003,Midwest Regional,4,1,Kentucky,69,3,Marquette,83
+2003,South Regional,1,1,Texas,82,16,North Carolina-Asheville,61
+2003,South Regional,1,8,LSU,56,9,Purdue,80
+2003,South Regional,1,5,UConn,58,12,BYU,53
+2003,South Regional,1,4,Stanford,77,13,San Diego,69
+2003,South Regional,1,6,Maryland,75,11,North Carolina-Wilmington,73
+2003,South Regional,1,3,Xavier,71,14,Troy,59
+2003,South Regional,1,7,Michigan State,79,10,Colorado,64
+2003,South Regional,1,2,Florida,85,15,Sam Houston State,55
+2003,South Regional,2,1,Texas,77,9,Purdue,67
+2003,South Regional,2,5,UConn,85,4,Stanford,74
+2003,South Regional,2,6,Maryland,77,3,Xavier,64
+2003,South Regional,2,7,Michigan State,68,2,Florida,46
+2003,South Regional,3,1,Texas,82,5,UConn,78
+2003,South Regional,3,6,Maryland,58,7,Michigan State,60
+2003,South Regional,4,1,Texas,85,7,Michigan State,76
+2003,West Regional,1,1,Arizona,80,16,Vermont,51
+2003,West Regional,1,8,Cincinnati,69,9,Gonzaga,74
+2003,West Regional,1,5,Notre Dame,70,12,Milwaukee,69
+2003,West Regional,1,4,Illinois,65,13,Western Kentucky,60
+2003,West Regional,1,6,Creighton,73,11,Central Michigan,79
+2003,West Regional,1,3,Duke,67,14,Colorado State,57
+2003,West Regional,1,7,Memphis,71,10,Arizona State,84
+2003,West Regional,1,2,Kansas,64,15,Utah State,61
+2003,West Regional,2,1,Arizona,96,9,Gonzaga,95
+2003,West Regional,2,5,Notre Dame,68,4,Illinois,60
+2003,West Regional,2,11,Central Michigan,60,3,Duke,86
+2003,West Regional,2,10,Arizona State,76,2,Kansas,108
+2003,West Regional,3,1,Arizona,88,5,Notre Dame,71
+2003,West Regional,3,3,Duke,65,2,Kansas,69
+2003,West Regional,4,1,Arizona,75,2,Kansas,78
+2003,Final_Four,Final_Four,3,Syracuse,95,1,Texas,84
+2003,Final_Four,Final_Four,3,Marquette,61,2,Kansas,94
+2003,Final_Four,Championship,3,Syracuse,81,2,Kansas,78
+2004,Atlanta Regional,1,1,Duke,96,16,Alabama State,61
+2004,Atlanta Regional,1,8,Seton Hall,80,9,Arizona,76
+2004,Atlanta Regional,1,5,Illinois,72,12,Murray State,53
+2004,Atlanta Regional,1,4,Cincinnati,80,13,ETSU,77
+2004,Atlanta Regional,1,6,UNC,63,11,Air Force,52
+2004,Atlanta Regional,1,3,Texas,66,14,Princeton,49
+2004,Atlanta Regional,1,7,Xavier,80,10,Louisville,70
+2004,Atlanta Regional,1,2,Mississippi State,85,15,Monmouth,52
+2004,Atlanta Regional,2,1,Duke,90,8,Seton Hall,62
+2004,Atlanta Regional,2,5,Illinois,92,4,Cincinnati,68
+2004,Atlanta Regional,2,6,UNC,75,3,Texas,78
+2004,Atlanta Regional,2,7,Xavier,89,2,Mississippi State,74
+2004,Atlanta Regional,3,1,Duke,72,5,Illinois,62
+2004,Atlanta Regional,3,3,Texas,71,7,Xavier,79
+2004,Atlanta Regional,4,1,Duke,66,7,Xavier,63
+2004,East Rutherford Regional,1,1,St. Joseph's,82,16,Liberty,63
+2004,East Rutherford Regional,1,8,Texas Tech,76,9,Charlotte,73
+2004,East Rutherford Regional,1,5,Florida,60,12,Manhattan,75
+2004,East Rutherford Regional,1,4,Wake Forest,79,13,VCU,78
+2004,East Rutherford Regional,1,6,Wisconsin,76,11,Richmond,64
+2004,East Rutherford Regional,1,3,Pitt,53,14,UCF,44
+2004,East Rutherford Regional,1,7,Memphis,59,10,South Carolina,43
+2004,East Rutherford Regional,1,2,Oklahoma State,75,15,Eastern Washington,56
+2004,East Rutherford Regional,2,1,St. Joseph's,70,8,Texas Tech,65
+2004,East Rutherford Regional,2,12,Manhattan,80,4,Wake Forest,84
+2004,East Rutherford Regional,2,6,Wisconsin,55,3,Pitt,59
+2004,East Rutherford Regional,2,7,Memphis,53,2,Oklahoma State,70
+2004,East Rutherford Regional,3,1,St. Joseph's,84,4,Wake Forest,80
+2004,East Rutherford Regional,3,3,Pitt,51,2,Oklahoma State,63
+2004,East Rutherford Regional,4,1,St. Joseph's,62,2,Oklahoma State,64
+2004,Phoenix Regional,1,1,Stanford,71,16,UTSA,45
+2004,Phoenix Regional,1,8,Alabama,65,9,Southern Illinois,64
+2004,Phoenix Regional,1,5,Syracuse,80,12,BYU,75
+2004,Phoenix Regional,1,4,Maryland,86,13,UTEP,83
+2004,Phoenix Regional,1,6,Vanderbilt,71,11,Western Michigan,58
+2004,Phoenix Regional,1,3,North Carolina State,61,14,Louisiana-Lafayette,52
+2004,Phoenix Regional,1,7,DePaul,76,10,Dayton,69
+2004,Phoenix Regional,1,2,UConn,70,15,Vermont,53
+2004,Phoenix Regional,2,1,Stanford,67,8,Alabama,70
+2004,Phoenix Regional,2,5,Syracuse,72,4,Maryland,70
+2004,Phoenix Regional,2,6,Vanderbilt,75,3,North Carolina State,73
+2004,Phoenix Regional,2,7,DePaul,55,2,UConn,72
+2004,Phoenix Regional,3,8,Alabama,80,5,Syracuse,71
+2004,Phoenix Regional,3,6,Vanderbilt,53,2,UConn,73
+2004,Phoenix Regional,4,8,Alabama,71,2,UConn,87
+2004,St. Louis Regional,1,1,Kentucky,96,16,Florida A&M,76
+2004,St. Louis Regional,1,8,Washington,100,9,Alabama-Birmingham,102
+2004,St. Louis Regional,1,5,Providence,58,12,Pacific,66
+2004,St. Louis Regional,1,4,Kansas,78,13,UIC,53
+2004,St. Louis Regional,1,6,Boston College,58,11,Utah,51
+2004,St. Louis Regional,1,3,Georgia Tech,65,14,Northern Iowa,60
+2004,St. Louis Regional,1,7,Michigan State,66,10,Nevada,72
+2004,St. Louis Regional,1,2,Gonzaga,76,15,Valparaiso,49
+2004,St. Louis Regional,2,1,Kentucky,75,9,Alabama-Birmingham,76
+2004,St. Louis Regional,2,12,Pacific,63,4,Kansas,78
+2004,St. Louis Regional,2,6,Boston College,54,3,Georgia Tech,57
+2004,St. Louis Regional,2,10,Nevada,91,2,Gonzaga,72
+2004,St. Louis Regional,3,9,Alabama-Birmingham,74,4,Kansas,100
+2004,St. Louis Regional,3,3,Georgia Tech,72,10,Nevada,67
+2004,St. Louis Regional,4,4,Kansas,71,3,Georgia Tech,79
+2004,Final_Four,Final_Four,2,UConn,79,1,Duke,78
+2004,Final_Four,Final_Four,2,Oklahoma State,65,3,Georgia Tech,67
+2004,Final_Four,Championship,2,UConn,82,3,Georgia Tech,73
+2005,Albuquerque Regional,1,1,Washington,88,16,Montana,77
+2005,Albuquerque Regional,1,8,Pacific,79,9,Pitt,71
+2005,Albuquerque Regional,1,5,Georgia Tech,80,12,George Washington,68
+2005,Albuquerque Regional,1,4,Louisville,68,13,Louisiana-Lafayette,62
+2005,Albuquerque Regional,1,6,Texas Tech,78,11,UCLA,66
+2005,Albuquerque Regional,1,3,Gonzaga,74,14,Winthrop,64
+2005,Albuquerque Regional,1,7,West Virginia,63,10,Creighton,61
+2005,Albuquerque Regional,1,2,Wake Forest,70,15,Chattanooga,54
+2005,Albuquerque Regional,2,1,Washington,97,8,Pacific,79
+2005,Albuquerque Regional,2,5,Georgia Tech,54,4,Louisville,76
+2005,Albuquerque Regional,2,6,Texas Tech,71,3,Gonzaga,69
+2005,Albuquerque Regional,2,7,West Virginia,111,2,Wake Forest,105
+2005,Albuquerque Regional,3,1,Washington,79,4,Louisville,93
+2005,Albuquerque Regional,3,6,Texas Tech,60,7,West Virginia,65
+2005,Albuquerque Regional,4,4,Louisville,93,7,West Virginia,85
+2005,Austin Regional,1,1,Duke,57,16,Delaware State,46
+2005,Austin Regional,1,8,Stanford,70,9,Mississippi State,93
+2005,Austin Regional,1,5,Michigan State,89,12,Old Dominion,81
+2005,Austin Regional,1,4,Syracuse,57,13,Vermont,60
+2005,Austin Regional,1,6,Utah,60,11,UTEP,54
+2005,Austin Regional,1,3,Oklahoma,84,14,Niagara,67
+2005,Austin Regional,1,7,Cincinnati,76,10,Iowa,64
+2005,Austin Regional,1,2,Kentucky,72,15,Eastern Kentucky,64
+2005,Austin Regional,2,1,Duke,63,9,Mississippi State,55
+2005,Austin Regional,2,5,Michigan State,72,13,Vermont,61
+2005,Austin Regional,2,6,Utah,67,3,Oklahoma,58
+2005,Austin Regional,2,7,Cincinnati,60,2,Kentucky,69
+2005,Austin Regional,3,1,Duke,68,5,Michigan State,78
+2005,Austin Regional,3,6,Utah,52,2,Kentucky,62
+2005,Austin Regional,4,5,Michigan State,94,2,Kentucky,88
+2005,Chicago Regional,1,1,Illinois,67,16,Fairleigh Dickinson,55
+2005,Chicago Regional,1,8,Texas,57,9,Nevada,61
+2005,Chicago Regional,1,5,Alabama,73,12,Milwaukee,83
+2005,Chicago Regional,1,4,Boston College,85,13,Penn,65
+2005,Chicago Regional,1,6,LSU,68,11,Alabama-Birmingham,82
+2005,Chicago Regional,1,3,Arizona,66,14,Utah State,53
+2005,Chicago Regional,1,7,Southern Illinois,65,10,Saint Mary's (CA),56
+2005,Chicago Regional,1,2,Oklahoma State,63,15,Southeastern Louisiana,50
+2005,Chicago Regional,2,1,Illinois,71,9,Nevada,59
+2005,Chicago Regional,2,12,Milwaukee,83,4,Boston College,75
+2005,Chicago Regional,2,11,Alabama-Birmingham,63,3,Arizona,85
+2005,Chicago Regional,2,7,Southern Illinois,77,2,Oklahoma State,85
+2005,Chicago Regional,3,1,Illinois,77,12,Milwaukee,63
+2005,Chicago Regional,3,3,Arizona,79,2,Oklahoma State,78
+2005,Chicago Regional,4,1,Illinois,90,3,Arizona,89
+2005,Syracuse Regional,1,1,UNC,96,16,Oakland,68
+2005,Syracuse Regional,1,8,Minnesota,53,9,Iowa State,64
+2005,Syracuse Regional,1,5,Villanova,55,12,New Mexico,47
+2005,Syracuse Regional,1,4,Florida,67,13,Ohio,62
+2005,Syracuse Regional,1,6,Wisconsin,57,11,Northern Iowa,52
+2005,Syracuse Regional,1,3,Kansas,63,14,Bucknell,64
+2005,Syracuse Regional,1,7,Charlotte,63,10,North Carolina State,75
+2005,Syracuse Regional,1,2,UConn,77,15,UCF,71
+2005,Syracuse Regional,2,1,UNC,92,9,Iowa State,65
+2005,Syracuse Regional,2,5,Villanova,76,4,Florida,65
+2005,Syracuse Regional,2,6,Wisconsin,71,14,Bucknell,62
+2005,Syracuse Regional,2,10,North Carolina State,65,2,UConn,62
+2005,Syracuse Regional,3,1,UNC,67,5,Villanova,66
+2005,Syracuse Regional,3,6,Wisconsin,65,10,North Carolina State,56
+2005,Syracuse Regional,4,1,UNC,88,6,Wisconsin,82
+2005,Final_Four,Final_Four,1,UNC,87,5,Michigan State,71
+2005,Final_Four,Final_Four,4,Louisville,57,1,Illinois,72
+2005,Final_Four,Championship,1,UNC,75,1,Illinois,70
+2006,Atlanta Regional,1,1,Duke,70,16,Southern,54
+2006,Atlanta Regional,1,8,George Washington,88,9,North Carolina-Wilmington,85
+2006,Atlanta Regional,1,5,Syracuse,58,12,Texas A&M,66
+2006,Atlanta Regional,1,4,LSU,80,13,Iona,64
+2006,Atlanta Regional,1,6,West Virginia,64,11,Southern Illinois,46
+2006,Atlanta Regional,1,3,Iowa,63,14,Northwestern State,64
+2006,Atlanta Regional,1,7,University of California,52,10,North Carolina State,58
+2006,Atlanta Regional,1,2,Texas,60,15,Penn,52
+2006,Atlanta Regional,2,1,Duke,74,8,George Washington,61
+2006,Atlanta Regional,2,12,Texas A&M,57,4,LSU,58
+2006,Atlanta Regional,2,6,West Virginia,67,14,Northwestern State,54
+2006,Atlanta Regional,2,10,North Carolina State,54,2,Texas,75
+2006,Atlanta Regional,3,1,Duke,54,4,LSU,62
+2006,Atlanta Regional,3,6,West Virginia,71,2,Texas,74
+2006,Atlanta Regional,4,4,LSU,70,2,Texas,60
+2006,Minneapolis Regional,1,1,Villanova,58,16,Monmouth,45
+2006,Minneapolis Regional,1,8,Arizona,94,9,Wisconsin,75
+2006,Minneapolis Regional,1,5,Nevada,79,12,Montana,87
+2006,Minneapolis Regional,1,4,Boston College,88,13,Pacific,76
+2006,Minneapolis Regional,1,6,Oklahoma,74,11,Milwaukee,82
+2006,Minneapolis Regional,1,3,Florida,76,14,South Alabama,50
+2006,Minneapolis Regional,1,7,Georgetown,54,10,Northern Iowa,49
+2006,Minneapolis Regional,1,2,Ohio State,70,15,Davidson,62
+2006,Minneapolis Regional,2,1,Villanova,82,8,Arizona,78
+2006,Minneapolis Regional,2,12,Montana,56,4,Boston College,69
+2006,Minneapolis Regional,2,11,Milwaukee,60,3,Florida,82
+2006,Minneapolis Regional,2,7,Georgetown,70,2,Ohio State,52
+2006,Minneapolis Regional,3,1,Villanova,60,4,Boston College,59
+2006,Minneapolis Regional,3,3,Florida,57,7,Georgetown,53
+2006,Minneapolis Regional,4,1,Villanova,62,3,Florida,75
+2006,Oakland Regional,1,1,Memphis,94,16,Oral Roberts,78
+2006,Oakland Regional,1,8,Arkansas,55,9,Bucknell,59
+2006,Oakland Regional,1,5,Pitt,79,12,Kent State,64
+2006,Oakland Regional,1,4,Kansas,73,13,Bradley,77
+2006,Oakland Regional,1,6,Indiana,87,11,San Diego State,83
+2006,Oakland Regional,1,3,Gonzaga,79,14,Xavier,75
+2006,Oakland Regional,1,7,Marquette,85,10,Alabama,90
+2006,Oakland Regional,1,2,UCLA,78,15,Belmont,44
+2006,Oakland Regional,2,1,Memphis,72,9,Bucknell,56
+2006,Oakland Regional,2,5,Pitt,66,13,Bradley,72
+2006,Oakland Regional,2,6,Indiana,80,3,Gonzaga,90
+2006,Oakland Regional,2,10,Alabama,59,2,UCLA,62
+2006,Oakland Regional,3,1,Memphis,80,13,Bradley,64
+2006,Oakland Regional,3,3,Gonzaga,71,2,UCLA,73
+2006,Oakland Regional,4,1,Memphis,45,2,UCLA,50
+2006,Washington Regional,1,1,UConn,72,16,Albany (NY),59
+2006,Washington Regional,1,8,Kentucky,69,9,Alabama-Birmingham,64
+2006,Washington Regional,1,5,Washington,75,12,Utah State,61
+2006,Washington Regional,1,4,Illinois,78,13,Air Force,69
+2006,Washington Regional,1,6,Michigan State,65,11,George Mason,75
+2006,Washington Regional,1,3,UNC,69,14,Murray State,65
+2006,Washington Regional,1,7,Wichita State,86,10,Seton Hall,66
+2006,Washington Regional,1,2,Tennessee,63,15,Winthrop,61
+2006,Washington Regional,2,1,UConn,87,8,Kentucky,83
+2006,Washington Regional,2,5,Washington,67,4,Illinois,64
+2006,Washington Regional,2,11,George Mason,65,3,UNC,60
+2006,Washington Regional,2,7,Wichita State,80,2,Tennessee,73
+2006,Washington Regional,3,1,UConn,98,5,Washington,92
+2006,Washington Regional,3,11,George Mason,63,7,Wichita State,55
+2006,Washington Regional,4,1,UConn,84,11,George Mason,86
+2006,Final_Four,Final_Four,3,Florida,73,11,George Mason,58
+2006,Final_Four,Final_Four,4,LSU,45,2,UCLA,59
+2006,Final_Four,Championship,3,Florida,73,2,UCLA,57
+2007,East Regional,1,1,UNC,86,16,Eastern Kentucky,65
+2007,East Regional,1,8,Marquette,49,9,Michigan State,61
+2007,East Regional,1,5,USC,77,12,Arkansas,60
+2007,East Regional,1,4,Texas,79,13,New Mexico State,67
+2007,East Regional,1,6,Vanderbilt,77,11,George Washington,44
+2007,East Regional,1,3,Washington State,70,14,Oral Roberts,54
+2007,East Regional,1,7,Boston College,84,10,Texas Tech,75
+2007,East Regional,1,2,Georgetown,80,15,Belmont,55
+2007,East Regional,2,1,UNC,81,9,Michigan State,67
+2007,East Regional,2,5,USC,87,4,Texas,68
+2007,East Regional,2,6,Vanderbilt,78,3,Washington State,74
+2007,East Regional,2,7,Boston College,55,2,Georgetown,62
+2007,East Regional,3,1,UNC,74,5,USC,64
+2007,East Regional,3,6,Vanderbilt,65,2,Georgetown,66
+2007,East Regional,4,1,UNC,84,2,Georgetown,96
+2007,Midwest Regional,1,1,Florida,112,16,Jackson State,69
+2007,Midwest Regional,1,8,Arizona,63,9,Purdue,72
+2007,Midwest Regional,1,5,Butler,57,12,Old Dominion,46
+2007,Midwest Regional,1,4,Maryland,82,13,Davidson,70
+2007,Midwest Regional,1,6,Notre Dame,64,11,Winthrop,74
+2007,Midwest Regional,1,3,Oregon,58,14,Miami (OH),56
+2007,Midwest Regional,1,7,UNLV,67,10,Georgia Tech,63
+2007,Midwest Regional,1,2,Wisconsin,76,15,Texas A&M-Corpus Christi,63
+2007,Midwest Regional,2,1,Florida,74,9,Purdue,67
+2007,Midwest Regional,2,5,Butler,62,4,Maryland,59
+2007,Midwest Regional,2,11,Winthrop,61,3,Oregon,75
+2007,Midwest Regional,2,7,UNLV,74,2,Wisconsin,68
+2007,Midwest Regional,3,1,Florida,65,5,Butler,57
+2007,Midwest Regional,3,3,Oregon,76,7,UNLV,72
+2007,Midwest Regional,4,1,Florida,85,3,Oregon,77
+2007,South Regional,1,1,Ohio State,78,16,Central Connecticut,57
+2007,South Regional,1,8,BYU,77,9,Xavier,79
+2007,South Regional,1,5,Tennessee,121,12,Long Beach State,86
+2007,South Regional,1,4,Virginia,84,13,Albany (NY),57
+2007,South Regional,1,6,Louisville,78,11,Stanford,58
+2007,South Regional,1,3,Texas A&M,68,14,Penn,52
+2007,South Regional,1,7,Nevada,77,10,Creighton,71
+2007,South Regional,1,2,Memphis,73,15,North Texas,58
+2007,South Regional,2,1,Ohio State,78,9,Xavier,71
+2007,South Regional,2,5,Tennessee,77,4,Virginia,74
+2007,South Regional,2,6,Louisville,69,3,Texas A&M,72
+2007,South Regional,2,7,Nevada,62,2,Memphis,78
+2007,South Regional,3,1,Ohio State,85,5,Tennessee,84
+2007,South Regional,3,3,Texas A&M,64,2,Memphis,65
+2007,South Regional,4,1,Ohio State,92,2,Memphis,76
+2007,West Regional,1,1,Kansas,107,16,Niagara,67
+2007,West Regional,1,8,Kentucky,67,9,Villanova,58
+2007,West Regional,1,5,Virginia Tech,54,12,Illinois,52
+2007,West Regional,1,4,Southern Illinois,61,13,Holy Cross,51
+2007,West Regional,1,6,Duke,77,11,VCU,79
+2007,West Regional,1,3,Pitt,79,14,Wright State,58
+2007,West Regional,1,7,Indiana,70,10,Gonzaga,57
+2007,West Regional,1,2,UCLA,70,15,Weber State,42
+2007,West Regional,2,1,Kansas,88,8,Kentucky,76
+2007,West Regional,2,5,Virginia Tech,48,4,Southern Illinois,63
+2007,West Regional,2,11,VCU,79,3,Pitt,84
+2007,West Regional,2,7,Indiana,49,2,UCLA,54
+2007,West Regional,3,1,Kansas,61,4,Southern Illinois,58
+2007,West Regional,3,3,Pitt,55,2,UCLA,64
+2007,West Regional,4,1,Kansas,55,2,UCLA,68
+2007,Final_Four,Final_Four,1,Florida,76,2,UCLA,66
+2007,Final_Four,Final_Four,2,Georgetown,60,1,Ohio State,67
+2007,Final_Four,Championship,1,Florida,84,1,Ohio State,75
+2008,East Regional,1,1,UNC,113,16,Mount St. Mary's,74
+2008,East Regional,1,8,Indiana,72,9,Arkansas,86
+2008,East Regional,1,5,Notre Dame,68,12,George Mason,50
+2008,East Regional,1,4,Washington State,71,13,Winthrop,40
+2008,East Regional,1,6,Oklahoma,72,11,St. Joseph's,64
+2008,East Regional,1,3,Louisville,79,14,Boise State,61
+2008,East Regional,1,7,Butler,81,10,South Alabama,61
+2008,East Regional,1,2,Tennessee,72,15,American,57
+2008,East Regional,2,1,UNC,108,9,Arkansas,77
+2008,East Regional,2,5,Notre Dame,41,4,Washington State,61
+2008,East Regional,2,6,Oklahoma,48,3,Louisville,78
+2008,East Regional,2,7,Butler,71,2,Tennessee,76
+2008,East Regional,3,1,UNC,68,4,Washington State,47
+2008,East Regional,3,3,Louisville,79,2,Tennessee,60
+2008,East Regional,4,1,UNC,83,3,Louisville,73
+2008,Midwest Regional,1,1,Kansas,85,16,Portland State,61
+2008,Midwest Regional,1,8,UNLV,71,9,Kent State,58
+2008,Midwest Regional,1,5,Clemson,69,12,Villanova,75
+2008,Midwest Regional,1,4,Vanderbilt,62,13,Siena,83
+2008,Midwest Regional,1,6,USC,67,11,Kansas State,80
+2008,Midwest Regional,1,3,Wisconsin,71,14,Cal State Fullerton,56
+2008,Midwest Regional,1,7,Gonzaga,76,10,Davidson,82
+2008,Midwest Regional,1,2,Georgetown,66,15,UMBC,47
+2008,Midwest Regional,2,1,Kansas,75,8,UNLV,56
+2008,Midwest Regional,2,12,Villanova,84,13,Siena,72
+2008,Midwest Regional,2,11,Kansas State,55,3,Wisconsin,72
+2008,Midwest Regional,2,10,Davidson,74,2,Georgetown,70
+2008,Midwest Regional,3,1,Kansas,72,12,Villanova,57
+2008,Midwest Regional,3,3,Wisconsin,56,10,Davidson,73
+2008,Midwest Regional,4,1,Kansas,59,10,Davidson,57
+2008,South Regional,1,1,Memphis,87,16,Texas-Arlington,63
+2008,South Regional,1,8,Mississippi State,76,9,Oregon,69
+2008,South Regional,1,5,Michigan State,72,12,Temple,61
+2008,South Regional,1,4,Pitt,82,13,Oral Roberts,63
+2008,South Regional,1,6,Marquette,74,11,Kentucky,66
+2008,South Regional,1,3,Stanford,77,14,Cornell,53
+2008,South Regional,1,7,Miami (FL),78,10,Saint Mary's (CA),64
+2008,South Regional,1,2,Texas,74,15,Austin Peay,54
+2008,South Regional,2,1,Memphis,77,8,Mississippi State,74
+2008,South Regional,2,5,Michigan State,65,4,Pitt,54
+2008,South Regional,2,6,Marquette,81,3,Stanford,82
+2008,South Regional,2,7,Miami (FL),72,2,Texas,75
+2008,South Regional,3,1,Memphis,92,5,Michigan State,74
+2008,South Regional,3,3,Stanford,62,2,Texas,82
+2008,South Regional,4,1,Memphis,85,2,Texas,67
+2008,West Regional,1,1,UCLA,70,16,Mississippi Valley State,29
+2008,West Regional,1,8,BYU,62,9,Texas A&M,67
+2008,West Regional,1,5,Drake,99,12,Western Kentucky,101
+2008,West Regional,1,4,UConn,69,13,San Diego,70
+2008,West Regional,1,6,Purdue,90,11,Baylor,79
+2008,West Regional,1,3,Xavier,73,14,Georgia,61
+2008,West Regional,1,7,West Virginia,75,10,Arizona,65
+2008,West Regional,1,2,Duke,71,15,Belmont,70
+2008,West Regional,2,1,UCLA,51,9,Texas A&M,49
+2008,West Regional,2,12,Western Kentucky,72,13,San Diego,63
+2008,West Regional,2,6,Purdue,78,3,Xavier,85
+2008,West Regional,2,7,West Virginia,73,2,Duke,67
+2008,West Regional,3,1,UCLA,88,12,Western Kentucky,78
+2008,West Regional,3,3,Xavier,79,7,West Virginia,75
+2008,West Regional,4,1,UCLA,76,3,Xavier,57
+2008,Final_Four,Final_Four,1,Kansas,84,1,UNC,66
+2008,Final_Four,Final_Four,1,UCLA,63,1,Memphis,78
+2008,Final_Four,Championship,1,Kansas,75,1,Memphis,68
+2009,East Regional,1,1,Pitt,72,16,ETSU,62
+2009,East Regional,1,8,Oklahoma State,77,9,Tennessee,75
+2009,East Regional,1,5,Florida State,59,12,Wisconsin,61
+2009,East Regional,1,4,Xavier,77,13,Portland State,59
+2009,East Regional,1,6,UCLA,65,11,VCU,64
+2009,East Regional,1,3,Villanova,80,14,American,67
+2009,East Regional,1,7,Texas,76,10,Minnesota,62
+2009,East Regional,1,2,Duke,86,15,Binghamton,62
+2009,East Regional,2,1,Pitt,84,8,Oklahoma State,76
+2009,East Regional,2,12,Wisconsin,49,4,Xavier,60
+2009,East Regional,2,6,UCLA,69,3,Villanova,89
+2009,East Regional,2,7,Texas,69,2,Duke,74
+2009,East Regional,3,1,Pitt,60,4,Xavier,55
+2009,East Regional,3,3,Villanova,77,2,Duke,54
+2009,East Regional,4,1,Pitt,76,3,Villanova,78
+2009,Midwest Regional,1,1,Louisville,74,16,Morehead State,54
+2009,Midwest Regional,1,8,Ohio State,72,9,Siena,74
+2009,Midwest Regional,1,5,Utah,71,12,Arizona,84
+2009,Midwest Regional,1,4,Wake Forest,69,13,Cleveland State,84
+2009,Midwest Regional,1,6,West Virginia,60,11,Dayton,68
+2009,Midwest Regional,1,3,Kansas,84,14,North Dakota State,74
+2009,Midwest Regional,1,7,Boston College,55,10,USC,72
+2009,Midwest Regional,1,2,Michigan State,77,15,Robert Morris,62
+2009,Midwest Regional,2,1,Louisville,79,9,Siena,72
+2009,Midwest Regional,2,12,Arizona,71,13,Cleveland State,57
+2009,Midwest Regional,2,11,Dayton,43,3,Kansas,60
+2009,Midwest Regional,2,10,USC,69,2,Michigan State,74
+2009,Midwest Regional,3,1,Louisville,103,12,Arizona,64
+2009,Midwest Regional,3,3,Kansas,62,2,Michigan State,67
+2009,Midwest Regional,4,1,Louisville,52,2,Michigan State,64
+2009,South Regional,1,1,UNC,101,16,Radford,58
+2009,South Regional,1,8,LSU,75,9,Butler,71
+2009,South Regional,1,5,Illinois,72,12,Western Kentucky,76
+2009,South Regional,1,4,Gonzaga,77,13,Akron,64
+2009,South Regional,1,6,Arizona State,66,11,Temple,57
+2009,South Regional,1,3,Syracuse,59,14,Stephen F. Austin,44
+2009,South Regional,1,7,Clemson,59,10,Michigan,62
+2009,South Regional,1,2,Oklahoma,82,15,Morgan State,54
+2009,South Regional,2,1,UNC,84,8,LSU,70
+2009,South Regional,2,12,Western Kentucky,81,4,Gonzaga,83
+2009,South Regional,2,6,Arizona State,67,3,Syracuse,78
+2009,South Regional,2,10,Michigan,63,2,Oklahoma,73
+2009,South Regional,3,1,UNC,98,4,Gonzaga,77
+2009,South Regional,3,3,Syracuse,71,2,Oklahoma,84
+2009,South Regional,4,1,UNC,72,2,Oklahoma,60
+2009,West Regional,1,1,UConn,103,16,Chattanooga,47
+2009,West Regional,1,8,BYU,66,9,Texas A&M,79
+2009,West Regional,1,5,Purdue,61,12,Northern Iowa,56
+2009,West Regional,1,4,Washington,71,13,Mississippi State,58
+2009,West Regional,1,6,Marquette,58,11,Utah State,57
+2009,West Regional,1,3,Missouri,78,14,Cornell,59
+2009,West Regional,1,7,University of California,71,10,Maryland,84
+2009,West Regional,1,2,Memphis,81,15,Cal State Northridge,70
+2009,West Regional,2,1,UConn,92,9,Texas A&M,66
+2009,West Regional,2,5,Purdue,76,4,Washington,74
+2009,West Regional,2,6,Marquette,79,3,Missouri,83
+2009,West Regional,2,10,Maryland,70,2,Memphis,89
+2009,West Regional,3,1,UConn,72,5,Purdue,60
+2009,West Regional,3,3,Missouri,102,2,Memphis,91
+2009,West Regional,4,1,UConn,82,3,Missouri,75
+2009,Final_Four,Final_Four,1,UNC,83,3,Villanova,69
+2009,Final_Four,Final_Four,1,UConn,73,2,Michigan State,82
+2009,Final_Four,Championship,1,UNC,89,2,Michigan State,72
+2010,East Regional,1,1,Kentucky,100,16,ETSU,71
+2010,East Regional,1,8,Texas,80,9,Wake Forest,81
+2010,East Regional,1,5,Temple,65,12,Cornell,78
+2010,East Regional,1,4,Wisconsin,53,13,Wofford,49
+2010,East Regional,1,6,Marquette,78,11,Washington,80
+2010,East Regional,1,3,New Mexico,62,14,Montana,57
+2010,East Regional,1,7,Clemson,78,10,Missouri,86
+2010,East Regional,1,2,West Virginia,77,15,Morgan State,50
+2010,East Regional,2,1,Kentucky,90,9,Wake Forest,60
+2010,East Regional,2,12,Cornell,87,4,Wisconsin,69
+2010,East Regional,2,11,Washington,82,3,New Mexico,64
+2010,East Regional,2,10,Missouri,59,2,West Virginia,68
+2010,East Regional,3,1,Kentucky,62,12,Cornell,45
+2010,East Regional,3,11,Washington,56,2,West Virginia,69
+2010,East Regional,4,1,Kentucky,66,2,West Virginia,73
+2010,Midwest Regional,1,1,Kansas,90,16,Lehigh,74
+2010,Midwest Regional,1,8,UNLV,66,9,Northern Iowa,69
+2010,Midwest Regional,1,5,Michigan State,70,12,New Mexico State,67
+2010,Midwest Regional,1,4,Maryland,89,13,Houston,77
+2010,Midwest Regional,1,6,Tennessee,62,11,San Diego State,59
+2010,Midwest Regional,1,3,Georgetown,83,14,Ohio,97
+2010,Midwest Regional,1,7,Oklahoma State,59,10,Georgia Tech,64
+2010,Midwest Regional,1,2,Ohio State,68,15,UCSB,51
+2010,Midwest Regional,2,1,Kansas,67,9,Northern Iowa,69
+2010,Midwest Regional,2,5,Michigan State,85,4,Maryland,83
+2010,Midwest Regional,2,6,Tennessee,83,14,Ohio,68
+2010,Midwest Regional,2,10,Georgia Tech,66,2,Ohio State,75
+2010,Midwest Regional,3,9,Northern Iowa,52,5,Michigan State,59
+2010,Midwest Regional,3,6,Tennessee,76,2,Ohio State,73
+2010,Midwest Regional,4,5,Michigan State,70,6,Tennessee,69
+2010,South Regional,1,1,Duke,73,16,Arkansas-Pine Bluff,44
+2010,South Regional,1,8,University of California,77,9,Louisville,62
+2010,South Regional,1,5,Texas A&M,69,12,Utah State,53
+2010,South Regional,1,4,Purdue,72,13,Siena,64
+2010,South Regional,1,6,Notre Dame,50,11,Old Dominion,51
+2010,South Regional,1,3,Baylor,68,14,Sam Houston State,59
+2010,South Regional,1,7,Richmond,71,10,Saint Mary's (CA),80
+2010,South Regional,1,2,Villanova,73,15,Robert Morris,70
+2010,South Regional,2,1,Duke,68,8,University of California,53
+2010,South Regional,2,5,Texas A&M,61,4,Purdue,63
+2010,South Regional,2,11,Old Dominion,68,3,Baylor,76
+2010,South Regional,2,10,Saint Mary's (CA),75,2,Villanova,68
+2010,South Regional,3,1,Duke,70,4,Purdue,57
+2010,South Regional,3,3,Baylor,72,10,Saint Mary's (CA),49
+2010,South Regional,4,1,Duke,78,3,Baylor,71
+2010,West Regional,1,1,Syracuse,79,16,Vermont,56
+2010,West Regional,1,8,Gonzaga,67,9,Florida State,60
+2010,West Regional,1,5,Butler,77,12,UTEP,59
+2010,West Regional,1,4,Vanderbilt,65,13,Murray State,66
+2010,West Regional,1,6,Xavier,65,11,Minnesota,54
+2010,West Regional,1,3,Pitt,89,14,Oakland,66
+2010,West Regional,1,7,BYU,99,10,Florida,92
+2010,West Regional,1,2,Kansas State,82,15,North Texas,62
+2010,West Regional,2,1,Syracuse,87,8,Gonzaga,65
+2010,West Regional,2,5,Butler,54,13,Murray State,52
+2010,West Regional,2,6,Xavier,71,3,Pitt,68
+2010,West Regional,2,7,BYU,72,2,Kansas State,84
+2010,West Regional,3,1,Syracuse,59,5,Butler,63
+2010,West Regional,3,6,Xavier,96,2,Kansas State,101
+2010,West Regional,4,5,Butler,63,2,Kansas State,56
+2010,Final_Four,Final_Four,1,Duke,78,2,West Virginia,57
+2010,Final_Four,Final_Four,5,Michigan State,50,5,Butler,52
+2010,Final_Four,Championship,1,Duke,61,5,Butler,59
+2011,East Regional,1,1,Ohio State,75,16,UTSA,46
+2011,East Regional,1,8,George Mason,61,9,Villanova,57
+2011,East Regional,1,5,West Virginia,84,12,Clemson,76
+2011,East Regional,1,4,Kentucky,59,13,Princeton,57
+2011,East Regional,1,6,Xavier,55,11,Marquette,66
+2011,East Regional,1,3,Syracuse,77,14,Indiana State,60
+2011,East Regional,1,7,Washington,68,10,Georgia,65
+2011,East Regional,1,2,UNC,102,15,LIU-Brooklyn,87
+2011,East Regional,2,1,Ohio State,98,8,George Mason,66
+2011,East Regional,2,5,West Virginia,63,4,Kentucky,71
+2011,East Regional,2,11,Marquette,66,3,Syracuse,62
+2011,East Regional,2,7,Washington,83,2,UNC,86
+2011,East Regional,3,1,Ohio State,60,4,Kentucky,62
+2011,East Regional,3,11,Marquette,63,2,UNC,81
+2011,East Regional,4,4,Kentucky,76,2,UNC,69
+2011,Southeast Regional,1,1,Pitt,74,16,North Carolina-Asheville,51
+2011,Southeast Regional,1,8,Butler,60,9,Old Dominion,58
+2011,Southeast Regional,1,5,Kansas State,73,12,Utah State,68
+2011,Southeast Regional,1,4,Wisconsin,72,13,Belmont,58
+2011,Southeast Regional,1,6,St. John's (NY),71,11,Gonzaga,86
+2011,Southeast Regional,1,3,BYU,74,14,Wofford,66
+2011,Southeast Regional,1,7,UCLA,78,10,Michigan State,76
+2011,Southeast Regional,1,2,Florida,79,15,UCSB,51
+2011,Southeast Regional,2,1,Pitt,70,8,Butler,71
+2011,Southeast Regional,2,5,Kansas State,65,4,Wisconsin,70
+2011,Southeast Regional,2,11,Gonzaga,67,3,BYU,89
+2011,Southeast Regional,2,7,UCLA,65,2,Florida,73
+2011,Southeast Regional,3,8,Butler,61,4,Wisconsin,54
+2011,Southeast Regional,3,3,BYU,74,2,Florida,83
+2011,Southeast Regional,4,8,Butler,74,2,Florida,71
+2011,Southwest Regional,1,1,Kansas,72,16,Boston University,53
+2011,Southwest Regional,1,8,UNLV,62,9,Illinois,73
+2011,Southwest Regional,1,5,Vanderbilt,66,12,Richmond,69
+2011,Southwest Regional,1,4,Louisville,61,13,Morehead State,62
+2011,Southwest Regional,1,6,Georgetown,56,11,VCU,74
+2011,Southwest Regional,1,3,Purdue,65,14,St. Peter's,43
+2011,Southwest Regional,1,7,Texas A&M,50,10,Florida State,57
+2011,Southwest Regional,1,2,Notre Dame,69,15,Akron,56
+2011,Southwest Regional,2,1,Kansas,73,9,Illinois,59
+2011,Southwest Regional,2,12,Richmond,65,13,Morehead State,48
+2011,Southwest Regional,2,11,VCU,94,3,Purdue,76
+2011,Southwest Regional,2,10,Florida State,71,2,Notre Dame,57
+2011,Southwest Regional,3,1,Kansas,77,12,Richmond,57
+2011,Southwest Regional,3,11,VCU,72,10,Florida State,71
+2011,Southwest Regional,4,1,Kansas,61,11,VCU,71
+2011,West Regional,1,1,Duke,87,16,Hampton,45
+2011,West Regional,1,8,Michigan,75,9,Tennessee,45
+2011,West Regional,1,5,Arizona,77,12,Memphis,75
+2011,West Regional,1,4,Texas,85,13,Oakland,81
+2011,West Regional,1,6,Cincinnati,78,11,Missouri,63
+2011,West Regional,1,3,UConn,81,14,Bucknell,52
+2011,West Regional,1,7,Temple,66,10,Penn State,64
+2011,West Regional,1,2,San Diego State,68,15,Northern Colorado,50
+2011,West Regional,2,1,Duke,73,8,Michigan,71
+2011,West Regional,2,5,Arizona,70,4,Texas,69
+2011,West Regional,2,6,Cincinnati,58,3,UConn,69
+2011,West Regional,2,7,Temple,64,2,San Diego State,71
+2011,West Regional,3,1,Duke,77,5,Arizona,93
+2011,West Regional,3,3,UConn,74,2,San Diego State,67
+2011,West Regional,4,5,Arizona,63,3,UConn,65
+2011,Final_Four,Final_Four,3,UConn,56,4,Kentucky,55
+2011,Final_Four,Final_Four,11,VCU,62,8,Butler,70
+2011,Final_Four,Championship,3,UConn,53,8,Butler,41
+2012,East Regional,1,1,Syracuse,72,16,North Carolina-Asheville,65
+2012,East Regional,1,8,Kansas State,70,9,Southern Miss,64
+2012,East Regional,1,5,Vanderbilt,79,12,Harvard,70
+2012,East Regional,1,4,Wisconsin,73,13,Montana,49
+2012,East Regional,1,6,Cincinnati,65,11,Texas,59
+2012,East Regional,1,3,Florida State,66,14,St. Bonaventure,63
+2012,East Regional,1,7,Gonzaga,77,10,West Virginia,54
+2012,East Regional,1,2,Ohio State,78,15,Loyola (MD),59
+2012,East Regional,2,1,Syracuse,75,8,Kansas State,59
+2012,East Regional,2,5,Vanderbilt,57,4,Wisconsin,60
+2012,East Regional,2,6,Cincinnati,62,3,Florida State,56
+2012,East Regional,2,7,Gonzaga,66,2,Ohio State,73
+2012,East Regional,3,1,Syracuse,64,4,Wisconsin,63
+2012,East Regional,3,6,Cincinnati,66,2,Ohio State,81
+2012,East Regional,4,1,Syracuse,70,2,Ohio State,77
+2012,Midwest Regional,1,1,UNC,77,16,Vermont,58
+2012,Midwest Regional,1,8,Creighton,58,9,Alabama,57
+2012,Midwest Regional,1,5,Temple,44,12,South Florida,58
+2012,Midwest Regional,1,4,Michigan,60,13,Ohio,65
+2012,Midwest Regional,1,6,San Diego State,65,11,North Carolina State,79
+2012,Midwest Regional,1,3,Georgetown,74,14,Belmont,59
+2012,Midwest Regional,1,7,Saint Mary's (CA),69,10,Purdue,72
+2012,Midwest Regional,1,2,Kansas,65,15,Detroit,50
+2012,Midwest Regional,2,1,UNC,87,8,Creighton,73
+2012,Midwest Regional,2,12,South Florida,56,13,Ohio,62
+2012,Midwest Regional,2,11,North Carolina State,66,3,Georgetown,63
+2012,Midwest Regional,2,10,Purdue,60,2,Kansas,63
+2012,Midwest Regional,3,1,UNC,73,13,Ohio,65
+2012,Midwest Regional,3,11,North Carolina State,57,2,Kansas,60
+2012,Midwest Regional,4,1,UNC,67,2,Kansas,80
+2012,South Regional,1,1,Kentucky,81,16,Western Kentucky,66
+2012,South Regional,1,8,Iowa State,77,9,UConn,64
+2012,South Regional,1,5,Wichita State,59,12,VCU,62
+2012,South Regional,1,4,Indiana,79,13,New Mexico State,66
+2012,South Regional,1,6,UNLV,64,11,Colorado,68
+2012,South Regional,1,3,Baylor,68,14,South Dakota State,60
+2012,South Regional,1,7,Notre Dame,63,10,Xavier,67
+2012,South Regional,1,2,Duke,70,15,Lehigh,75
+2012,South Regional,2,1,Kentucky,87,8,Iowa State,71
+2012,South Regional,2,12,VCU,61,4,Indiana,63
+2012,South Regional,2,11,Colorado,63,3,Baylor,80
+2012,South Regional,2,10,Xavier,70,15,Lehigh,58
+2012,South Regional,3,1,Kentucky,102,4,Indiana,90
+2012,South Regional,3,3,Baylor,75,10,Xavier,70
+2012,South Regional,4,1,Kentucky,82,3,Baylor,70
+2012,West Regional,1,1,Michigan State,89,16,LIU-Brooklyn,67
+2012,West Regional,1,8,Memphis,54,9,Saint Louis,61
+2012,West Regional,1,5,New Mexico,75,12,Long Beach State,68
+2012,West Regional,1,4,Louisville,69,13,Davidson,62
+2012,West Regional,1,6,Murray State,58,11,Colorado State,41
+2012,West Regional,1,3,Marquette,88,14,BYU,68
+2012,West Regional,1,7,Florida,71,10,Virginia,45
+2012,West Regional,1,2,Missouri,84,15,Norfolk State,86
+2012,West Regional,2,1,Michigan State,65,9,Saint Louis,61
+2012,West Regional,2,5,New Mexico,56,4,Louisville,59
+2012,West Regional,2,6,Murray State,53,3,Marquette,62
+2012,West Regional,2,7,Florida,84,15,Norfolk State,50
+2012,West Regional,3,1,Michigan State,44,4,Louisville,57
+2012,West Regional,3,3,Marquette,58,7,Florida,68
+2012,West Regional,4,4,Louisville,72,7,Florida,68
+2012,Final_Four,Final_Four,1,Kentucky,69,4,Louisville,61
+2012,Final_Four,Final_Four,2,Ohio State,62,2,Kansas,64
+2012,Final_Four,Championship,1,Kentucky,67,2,Kansas,59
+2013,East Regional,1,1,Indiana,83,16,James Madison,62
+2013,East Regional,1,8,North Carolina State,72,9,Temple,76
+2013,East Regional,1,5,UNLV,61,12,University of California,64
+2013,East Regional,1,4,Syracuse,81,13,Montana,34
+2013,East Regional,1,6,Butler,68,11,Bucknell,56
+2013,East Regional,1,3,Marquette,59,14,Davidson,58
+2013,East Regional,1,7,Illinois,57,10,Colorado,49
+2013,East Regional,1,2,Miami (FL),78,15,Pacific,49
+2013,East Regional,2,1,Indiana,58,9,Temple,52
+2013,East Regional,2,12,University of California,60,4,Syracuse,66
+2013,East Regional,2,6,Butler,72,3,Marquette,74
+2013,East Regional,2,7,Illinois,59,2,Miami (FL),63
+2013,East Regional,3,1,Indiana,50,4,Syracuse,61
+2013,East Regional,3,3,Marquette,71,2,Miami (FL),61
+2013,East Regional,4,4,Syracuse,55,3,Marquette,39
+2013,Midwest Regional,1,1,Louisville,79,16,North Carolina A&T,48
+2013,Midwest Regional,1,8,Colorado State,84,9,Missouri,72
+2013,Midwest Regional,1,5,Oklahoma State,55,12,Oregon,68
+2013,Midwest Regional,1,4,Saint Louis,64,13,New Mexico State,44
+2013,Midwest Regional,1,6,Memphis,54,11,Saint Mary's (CA),52
+2013,Midwest Regional,1,3,Michigan State,65,14,Valparaiso,54
+2013,Midwest Regional,1,7,Creighton,67,10,Cincinnati,63
+2013,Midwest Regional,1,2,Duke,73,15,Albany (NY),61
+2013,Midwest Regional,2,1,Louisville,82,8,Colorado State,56
+2013,Midwest Regional,2,12,Oregon,74,4,Saint Louis,57
+2013,Midwest Regional,2,6,Memphis,48,3,Michigan State,70
+2013,Midwest Regional,2,7,Creighton,50,2,Duke,66
+2013,Midwest Regional,3,1,Louisville,77,12,Oregon,69
+2013,Midwest Regional,3,3,Michigan State,61,2,Duke,71
+2013,Midwest Regional,4,1,Louisville,85,2,Duke,63
+2013,South Regional,1,1,Kansas,64,16,Western Kentucky,57
+2013,South Regional,1,8,UNC,78,9,Villanova,71
+2013,South Regional,1,5,VCU,88,12,Akron,42
+2013,South Regional,1,4,Michigan,71,13,South Dakota State,56
+2013,South Regional,1,6,UCLA,63,11,Minnesota,83
+2013,South Regional,1,3,Florida,79,14,Northwestern State,47
+2013,South Regional,1,7,San Diego State,70,10,Oklahoma,55
+2013,South Regional,1,2,Georgetown,68,15,Florida Gulf Coast,78
+2013,South Regional,2,1,Kansas,70,8,UNC,58
+2013,South Regional,2,5,VCU,53,4,Michigan,78
+2013,South Regional,2,11,Minnesota,64,3,Florida,78
+2013,South Regional,2,7,San Diego State,71,15,Florida Gulf Coast,81
+2013,South Regional,3,1,Kansas,85,4,Michigan,87
+2013,South Regional,3,3,Florida,62,15,Florida Gulf Coast,50
+2013,South Regional,4,4,Michigan,79,3,Florida,59
+2013,West Regional,1,1,Gonzaga,64,16,Southern,58
+2013,West Regional,1,8,Pitt,55,9,Wichita State,73
+2013,West Regional,1,5,Wisconsin,46,12,Ole Miss,57
+2013,West Regional,1,4,Kansas State,61,13,La Salle,63
+2013,West Regional,1,6,Arizona,81,11,Belmont,64
+2013,West Regional,1,3,New Mexico,62,14,Harvard,68
+2013,West Regional,1,7,Notre Dame,58,10,Iowa State,76
+2013,West Regional,1,2,Ohio State,95,15,Iona,70
+2013,West Regional,2,1,Gonzaga,70,9,Wichita State,76
+2013,West Regional,2,12,Ole Miss,74,13,La Salle,76
+2013,West Regional,2,6,Arizona,74,14,Harvard,51
+2013,West Regional,2,10,Iowa State,75,2,Ohio State,78
+2013,West Regional,3,9,Wichita State,72,13,La Salle,58
+2013,West Regional,3,6,Arizona,70,2,Ohio State,73
+2013,West Regional,4,9,Wichita State,70,2,Ohio State,66
+2013,Final_Four,Final_Four,1,Louisville,72,9,Wichita State,68
+2013,Final_Four,Final_Four,4,Syracuse,56,4,Michigan,61
+2013,Final_Four,Championship,1,Louisville,82,4,Michigan,76
+2014,East Regional,1,1,Virginia,70,16,Coastal Carolina,59
+2014,East Regional,1,8,Memphis,71,9,George Washington,66
+2014,East Regional,1,5,Cincinnati,57,12,Harvard,61
+2014,East Regional,1,4,Michigan State,93,13,Delaware,78
+2014,East Regional,1,6,UNC,79,11,Providence,77
+2014,East Regional,1,3,Iowa State,93,14,North Carolina Central,75
+2014,East Regional,1,7,UConn,89,10,St. Joseph's,81
+2014,East Regional,1,2,Villanova,73,15,Milwaukee,53
+2014,East Regional,2,1,Virginia,78,8,Memphis,60
+2014,East Regional,2,12,Harvard,73,4,Michigan State,80
+2014,East Regional,2,6,UNC,83,3,Iowa State,85
+2014,East Regional,2,7,UConn,77,2,Villanova,65
+2014,East Regional,3,1,Virginia,59,4,Michigan State,61
+2014,East Regional,3,3,Iowa State,76,7,UConn,81
+2014,East Regional,4,4,Michigan State,54,7,UConn,60
+2014,Midwest Regional,1,1,Wichita State,64,16,Cal Poly,37
+2014,Midwest Regional,1,8,Kentucky,56,9,Kansas State,49
+2014,Midwest Regional,1,5,Saint Louis,83,12,North Carolina State,80
+2014,Midwest Regional,1,4,Louisville,71,13,Manhattan,64
+2014,Midwest Regional,1,6,UMass,67,11,Tennessee,86
+2014,Midwest Regional,1,3,Duke,71,14,Mercer,78
+2014,Midwest Regional,1,7,Texas,87,10,Arizona State,85
+2014,Midwest Regional,1,2,Michigan,57,15,Wofford,40
+2014,Midwest Regional,2,1,Wichita State,76,8,Kentucky,78
+2014,Midwest Regional,2,5,Saint Louis,51,4,Louisville,66
+2014,Midwest Regional,2,11,Tennessee,83,14,Mercer,63
+2014,Midwest Regional,2,7,Texas,65,2,Michigan,79
+2014,Midwest Regional,3,8,Kentucky,74,4,Louisville,69
+2014,Midwest Regional,3,11,Tennessee,71,2,Michigan,73
+2014,Midwest Regional,4,8,Kentucky,75,2,Michigan,72
+2014,South Regional,1,1,Florida,67,16,Albany (NY),55
+2014,South Regional,1,8,Colorado,48,9,Pitt,77
+2014,South Regional,1,5,VCU,75,12,Stephen F. Austin,77
+2014,South Regional,1,4,UCLA,76,13,Tulsa,59
+2014,South Regional,1,6,Ohio State,59,11,Dayton,60
+2014,South Regional,1,3,Syracuse,77,14,Western Michigan,53
+2014,South Regional,1,7,New Mexico,53,10,Stanford,58
+2014,South Regional,1,2,Kansas,80,15,Eastern Kentucky,69
+2014,South Regional,2,1,Florida,61,9,Pitt,45
+2014,South Regional,2,12,Stephen F. Austin,60,4,UCLA,77
+2014,South Regional,2,11,Dayton,55,3,Syracuse,53
+2014,South Regional,2,10,Stanford,60,2,Kansas,57
+2014,South Regional,3,1,Florida,79,4,UCLA,68
+2014,South Regional,3,11,Dayton,82,10,Stanford,72
+2014,South Regional,4,1,Florida,62,11,Dayton,52
+2014,West Regional,1,1,Arizona,68,16,Weber State,59
+2014,West Regional,1,8,Gonzaga,85,9,Oklahoma State,77
+2014,West Regional,1,5,Oklahoma,75,12,North Dakota State,80
+2014,West Regional,1,4,San Diego State,73,13,New Mexico State,69
+2014,West Regional,1,6,Baylor,74,11,Nebraska,60
+2014,West Regional,1,3,Creighton,76,14,Louisiana-Lafayette,66
+2014,West Regional,1,7,Oregon,87,10,BYU,68
+2014,West Regional,1,2,Wisconsin,75,15,American,35
+2014,West Regional,2,1,Arizona,84,8,Gonzaga,61
+2014,West Regional,2,12,North Dakota State,44,4,San Diego State,63
+2014,West Regional,2,6,Baylor,85,3,Creighton,55
+2014,West Regional,2,7,Oregon,77,2,Wisconsin,85
+2014,West Regional,3,1,Arizona,70,4,San Diego State,64
+2014,West Regional,3,6,Baylor,52,2,Wisconsin,69
+2014,West Regional,4,1,Arizona,63,2,Wisconsin,64
+2014,Final_Four,Final_Four,7,UConn,63,1,Florida,53
+2014,Final_Four,Final_Four,2,Wisconsin,73,8,Kentucky,74
+2014,Final_Four,Championship,7,UConn,60,8,Kentucky,54
+2015,East Regional,1,1,Villanova,93,16,Lafayette,52
+2015,East Regional,1,8,North Carolina State,66,9,LSU,65
+2015,East Regional,1,5,Northern Iowa,71,12,Wyoming,54
+2015,East Regional,1,4,Louisville,57,13,UC-Irvine,55
+2015,East Regional,1,6,Providence,53,11,Dayton,66
+2015,East Regional,1,3,Oklahoma,69,14,Albany (NY),60
+2015,East Regional,1,7,Michigan State,70,10,Georgia,63
+2015,East Regional,1,2,Virginia,79,15,Belmont,67
+2015,East Regional,2,1,Villanova,68,8,North Carolina State,71
+2015,East Regional,2,5,Northern Iowa,53,4,Louisville,66
+2015,East Regional,2,11,Dayton,66,3,Oklahoma,72
+2015,East Regional,2,7,Michigan State,60,2,Virginia,54
+2015,East Regional,3,8,North Carolina State,65,4,Louisville,75
+2015,East Regional,3,3,Oklahoma,58,7,Michigan State,62
+2015,East Regional,4,4,Louisville,70,7,Michigan State,76
+2015,Midwest Regional,1,1,Kentucky,79,16,Hampton,56
+2015,Midwest Regional,1,8,Cincinnati,66,9,Purdue,65
+2015,Midwest Regional,1,5,West Virginia,68,12,Buffalo,62
+2015,Midwest Regional,1,4,Maryland,65,13,Valparaiso,62
+2015,Midwest Regional,1,6,Butler,56,11,Texas,48
+2015,Midwest Regional,1,3,Notre Dame,69,14,Northeastern,65
+2015,Midwest Regional,1,7,Wichita State,81,10,Indiana,76
+2015,Midwest Regional,1,2,Kansas,75,15,New Mexico State,56
+2015,Midwest Regional,2,1,Kentucky,64,8,Cincinnati,51
+2015,Midwest Regional,2,5,West Virginia,69,4,Maryland,59
+2015,Midwest Regional,2,6,Butler,64,3,Notre Dame,67
+2015,Midwest Regional,2,7,Wichita State,78,2,Kansas,65
+2015,Midwest Regional,3,1,Kentucky,78,5,West Virginia,39
+2015,Midwest Regional,3,3,Notre Dame,81,7,Wichita State,70
+2015,Midwest Regional,4,1,Kentucky,68,3,Notre Dame,66
+2015,South Regional,1,1,Duke,85,16,Robert Morris,56
+2015,South Regional,1,8,San Diego State,76,9,St. John's (NY),64
+2015,South Regional,1,5,Utah,57,12,Stephen F. Austin,50
+2015,South Regional,1,4,Georgetown,84,13,Eastern Washington,74
+2015,South Regional,1,6,SMU,59,11,UCLA,60
+2015,South Regional,1,3,Iowa State,59,14,Alabama-Birmingham,60
+2015,South Regional,1,7,Iowa,83,10,Davidson,52
+2015,South Regional,1,2,Gonzaga,86,15,North Dakota State,76
+2015,South Regional,2,1,Duke,68,8,San Diego State,49
+2015,South Regional,2,5,Utah,75,4,Georgetown,64
+2015,South Regional,2,11,UCLA,92,14,Alabama-Birmingham,75
+2015,South Regional,2,7,Iowa,68,2,Gonzaga,87
+2015,South Regional,3,1,Duke,63,5,Utah,57
+2015,South Regional,3,11,UCLA,62,2,Gonzaga,74
+2015,South Regional,4,1,Duke,66,2,Gonzaga,52
+2015,West Regional,1,1,Wisconsin,86,16,Coastal Carolina,72
+2015,West Regional,1,8,Oregon,79,9,Oklahoma State,73
+2015,West Regional,1,5,Arkansas,56,12,Wofford,53
+2015,West Regional,1,4,UNC,67,13,Harvard,65
+2015,West Regional,1,6,Xavier,76,11,Ole Miss,57
+2015,West Regional,1,3,Baylor,56,14,Georgia State,57
+2015,West Regional,1,7,VCU,72,10,Ohio State,75
+2015,West Regional,1,2,Arizona,93,15,Texas Southern,72
+2015,West Regional,2,1,Wisconsin,72,8,Oregon,65
+2015,West Regional,2,5,Arkansas,78,4,UNC,87
+2015,West Regional,2,6,Xavier,75,14,Georgia State,67
+2015,West Regional,2,10,Ohio State,58,2,Arizona,73
+2015,West Regional,3,1,Wisconsin,79,4,UNC,72
+2015,West Regional,3,6,Xavier,60,2,Arizona,68
+2015,West Regional,4,1,Wisconsin,85,2,Arizona,78
+2015,Final_Four,Final_Four,1,Duke,81,7,Michigan State,61
+2015,Final_Four,Final_Four,1,Kentucky,64,1,Wisconsin,71
+2015,Final_Four,Championship,1,Duke,68,1,Wisconsin,63
